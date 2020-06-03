@@ -1,0 +1,4 @@
+resource "aws_key_pair" "erik" {
+    key_name   = "erik"
+    public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCs11MlIoGhf2uh8lh3SeDj1/2H4sW/DXFxG2uVFOeggo8FfcXCw99zYV15j8kpYnZfErYvpW/WXwPOaH/ISDUuy37ezaAd+bEbT6tRFi4H31LH8SfLi5LJUw4lPLvysF0HqG7cIBUixm6n8CrJKVniNkwGWLRLtMkI0Q2Zl88E3ZVfZe5D5XW3ySiLNx98ZoeJ5q3d0Lse4Duz81uFreJBxcI7iG+uQj6WIhFo+1/vcViBuI5Via9jSnr2iw5UqdIZXV/XkkNPzHCiYhlG1JgSivWG/DpvQ0ANQ8G3LpEVYqP5nXSDPPJ/5A0se2Y2hq7d2xlH1/uIQQxTtTe9xUJYbQiGa164StRLA/d5wga9fjGa76EJMKUtbIdtZnuP53NQSHHo4kLKLfg9Mp4hFo/4Lu7ctm9QjCcCIQRO8G41mujK6v9B8sZyXaudYM7Dw/bRZ3pMql883HBscYCsqK/fzyirmFDlqAjl8jnEHqQq1+fDKZc32smGYMBNEEa40y8= erikmathis@erikmac.themathis.house"
+}
